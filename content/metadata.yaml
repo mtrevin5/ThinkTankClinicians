@@ -18,3 +18,126 @@ authors:
     email: todd.horowitz@nih.gov
     affiliations:
       - National Cancer Institute
+  - name: Steven E. Seltzer
+    initials: SES
+    email: sseltzer@bwh.harvard.edu
+    affiliations:
+      - Brigham and Women's Hospital
+      - Harvard Medical School
+  - name: Jeremy M. Wolfe
+    initials: JMW
+    email: jwolfe@bwh.harvard.edu
+    affiliations:
+      - Brigham and Women's Hospital
+      - Harvard Medical School
+  - name: George Birdsong
+    initials: GB
+    email: gbirdso@emory.edu
+    affiliations:
+      - Emory University School of Medicine
+  - name: Peter Choyke
+    initials: PC
+    email: pchoyke@nih.gov
+    affiliations:
+      - National Cancer Institute
+  - name: Trafton Drew
+    initials: TD
+    email: trafton.drew@psych.utah.edu
+    affiliations:
+      - University of Utah
+  - name: Miguel Eckstein
+    initials: ME
+    email: miguel.eckstein@psych.ucsb.edu
+    affiliations:
+      - University of California, Santa Barbara
+  - name: Anna Fernandez
+    initials: AF
+    email: anna.fernandez@nih.gov
+    affiliations:
+      - National Cancer Institute
+      - Booz Allen
+  - name: Brandon Gallas
+    initials: BG
+    email: brandon.gallas@fda.hhs.gov
+    affiliations:
+      - U.S. Food and Drug Administation
+  - name: Maryellen Giger
+    initials: MG
+    email: m-giger@uchicago.edu
+    affiliations:
+      - University of Chicago
+  - name: Stephen Hewitt
+    initials: SH
+    email: hewitts@mail.nih.gov
+    affiliations:
+      - National Cancer Institute
+  - name: Yuhong Jiang
+    initials: YJ
+    email: Jiang166@umn.edu
+    affiliations:
+      - University of Minnesota
+  - name: Bonnie Kudrick
+    initials: BK
+    email: Bonnie.Kudrick@tsa.dhs.gov
+    affiliations:
+      - Transportation Security Administation
+  - name: Susana Martinez-Conde
+    initials: SMC
+    email: smart@neuralcorrelate.com
+    affiliations:
+      - State University of New York Downstate Medical Center
+  - name: Stephen Mitroff
+    initials: SM
+    email: mitroff@gwu.edu
+    affiliations:
+      - George Washington University
+  - name: Linda Nebeling
+    initials: LN
+    email: nebelinl@mail.nih.gov
+    affiliations:
+      - National Cancer Institute
+  - name: Joseph Saltz
+    initials: JS
+    email: Joel.Saltz@stonybrookmedicine.edu
+    affiliations:
+      - Stony Brook University
+  - name: Frank Samuelson
+    initials: FS
+    email: frank.samuelson@fda.hhs.gov
+    affiliations:
+      - U.S. Food and Drug Administation
+  - name: Behrouz Shabestari
+    initials: BS
+    email: Behrouz.Shabestari@nih.gov
+    affiliations:
+      - National Institute of Biomedical Imaging and Bioengineering
+  - name: Lalitha Shankar
+    initials: LS
+    email: shankarl@mail.nih.gov
+    affiliations:
+      - National Cancer Institute
+  - name: Eliot Siegel
+    initials: ES
+    email: esiegel@umaryland.edu
+    affiliations:
+      - University of Maryland School of Medicine
+  - name: Jennifer Trueblood
+    initials: JT
+    email: jennifer.s.trueblood@vanderbilt.edu
+    affiliations:
+      - Vanderbilt University
+  - name: Alison Van Dyke
+    initials: AVD
+    email: Alison.VanDyke@nih.gov
+    affiliations:
+      - National Cancer Institute
+  - name: Aradhana Venkatesan
+    initials: AV
+    email: avenkatesan@mdanderson.org
+    affiliations:
+      - University of Texas MD Anderson Cancer Center
+  - name: David Whitney
+    initials: DW
+    email: dwhitney@berkeley.edu
+    affiliations:
+      - University of California, Berkeley
