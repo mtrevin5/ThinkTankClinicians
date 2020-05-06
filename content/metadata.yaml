@@ -6,7 +6,8 @@ keywords:
   - Pathology
 lang: en-US
 authors:
-  - name: Melissa Treviño
+  - github: metrevin5
+    name: Melissa Treviño
     initials: MT
     email: melissa.trevino@nih.gov
     affiliations:
