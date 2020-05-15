@@ -9,12 +9,8 @@ filters:
 - pandoc-citeproc
 wrap: preserve
 metadata:
-<<<<<<< HEAD
-  csl: https://github.com/citation-style-language/styles/american-medical-association-10th-edition.csl
+  csl: build/assets/american-medical-association-10th-edition.csl
   #csl: https://www.zotero.org/styles/american-medical-association-10th-edition.csl
-=======
-  csl: https://www.zotero.org/styles/american-medical-association-10th-edition.csl
->>>>>>> a2850678ad4d5d506db97bdd25ce45e23434893f
   #csl: build/assets/apa.csl
   #csl: build/assets/style.csl
   link-citations: true
