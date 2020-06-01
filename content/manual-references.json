@@ -29,6 +29,25 @@
       "family": "Smith"
     }
   ],
-  "publisher": "Charles. C. Thomas"
+  "publisher": "Charles. C. Thomas",
+  "issued": {
+			"literal": "1967"
+		}
+},
+{
+  "id": "Stokes-1997",
+  "type": "book",
+  "title": "Pasteur's Quadrant: Basic science and technological innovation",
+  "author": [
+    {
+      "given": "D. R.",
+      "family": "Stokes"
+    }
+  ],
+  "publisher": "Brookings Institution Press",
+  "publisher-place": "Washington, DC",
+  "issued": {
+  			"literal": "1997"
+  		}
 }
 ]
