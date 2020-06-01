@@ -18,5 +18,17 @@
       "family": "Himmelstein"
     }
   ]
+},
+{
+  "id": "Smith-1967",
+  "type": "book",
+  "title": "Error and variation in diagnostic radiology",
+  "author": [
+    {
+      "given": "Marcus J.",
+      "family": "Smith"
+    }
+  ],
+  "publisher": "Charles. C. Thomas"
 }
 ]
